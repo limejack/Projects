@@ -1,0 +1,4 @@
+init(2)
+H(0)
+CNOT(0,1)
+output()

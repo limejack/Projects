@@ -1,0 +1,9 @@
+INPUTS:
+A,B,D
+PROCEDURE:
+NOT(A)
+NOT(B)
+AND(A,B,D)
+NOT(A)
+NOT(B)
+NOT(D)

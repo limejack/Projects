@@ -1,0 +1,6 @@
+INPUTS:
+A
+PROCEDURE:
+H(A)
+NOT(A)
+H(A)

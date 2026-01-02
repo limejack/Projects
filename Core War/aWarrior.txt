@@ -1,0 +1,4 @@
+jmp 2
+jmp 0 <-10
+spl -1
+mov 0 1
